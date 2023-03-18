@@ -1,0 +1,13 @@
+#ifndef PACMANSFML_DIRECTION_H
+#define PACMANSFML_DIRECTION_H
+
+enum Direction
+{
+  NONE,
+  NORTH,
+  EAST,
+  SOUTH,
+  WEST
+};
+
+#endif // PACMANSFML_DIRECTION_H

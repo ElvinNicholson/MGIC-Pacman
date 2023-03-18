@@ -1,0 +1,10 @@
+#ifndef PACMANSFML_STATES_H
+#define PACMANSFML_STATES_H
+
+enum States
+{
+  TITLE,
+  GAMEPLAY
+};
+
+#endif // PACMANSFML_STATES_H
